@@ -6,4 +6,5 @@ Key Features:
 
 
 Leads and Sales Breakdown: Displays lead generation and sales performance from multiple sources, giving insight into conversion trends.
+
 Revenue Overview: Shows total sales, spend, and profit, offering a clear financial snapshot for the month.
